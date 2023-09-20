@@ -12,6 +12,7 @@
    - 4.1. [Each Class](#each-class)
    - 4.2. [Start and End of the Experiment](#start-and-end-of-the-experiment)
    - 4.3. [Channel Labels](#channel-labels)
+5. [Reference](#Reference)
 
 ## 1. Project title
 Robust Decoding of Multi-class Imagined Classification
@@ -86,5 +87,6 @@ If you'd like to contribute to this dataset or have any suggestions, please open
 | 15          | C4            | 30          | Oz            | 45          | FT8           | 60          | PO7           |
 
 
-
+## 5. Reference
+J. H. Jeong et al., "2020 International brain–computer interface competition: A review," *Frontiers in Human Neuroscience*, Vol. 16, 2022, p. 898300.
 
