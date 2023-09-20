@@ -1,5 +1,4 @@
 # XAI606_mid_project
-Of course! Here's the content restructured in a typical GitHub README format using Markdown:
 
 EEG Imagined Speech Dataset
 Table of Contents
