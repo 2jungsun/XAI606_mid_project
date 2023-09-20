@@ -2,7 +2,7 @@
 
 ## __EEG Imagined Speech Dataset__
 
-# [__Table of Contents__](#heading-1)
+[__Table of Contents__](#heading-1)
 
 # __Overview__
 
