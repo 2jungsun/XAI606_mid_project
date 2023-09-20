@@ -3,16 +3,20 @@
 ## **EEG Imagined Speech Dataset**
 
 ## Table of Contents
-- [Overview](#overview)
-- [Context and Objectives](#context-and-objectives)
-- [Experiment Configuration](#experiment-configuration)
-- [Recording Methodology](#recording-methodology)
-- [Contributing](#contributing)
-- [License](#license)
+1. [Project title](#project-title)
+2. [Project introduction](#project-introduction)
+   - [Overview](#overview)
+   - [Context and Objectives](#context-and-objectives)
+3. [Dataset description](#dataset-description)
+   - [Experiment Configuration](#experiment-configuration)
+   - [Recording Methodology](#recording-methodology)
+   - [Contributing](#contributing)
+   - [License](#license)
+
 
 ## **Overview**
 
-**EEG recordings captured the imagined vocalization** of five distinct speech words/phrases. There's a total of 350 trials, with 70 trials for each class. Out of these, 60 trials per class are designated for training and 10 trials per class for validation. The testing data, comprising 10 trials for each class, will be disseminated in the future. The data has been segmented according to the cues provided (event markers).
+EEG recordings captured the imagined vocalization of five distinct speech words/phrases. There's a total of 350 trials, with 70 trials for each class. Out of these, 60 trials per class are designated for training and 10 trials per class for validation. The testing data, comprising 10 trials for each class, will be disseminated in the future. The data has been segmented according to the cues provided (event markers).
 
 ## **Context and Objectives**
 
