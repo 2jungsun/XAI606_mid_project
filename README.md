@@ -11,7 +11,7 @@
 4. [Event Codes](#event-codes)
    - 4.1. [Each Class](#each-class)
    - 4.2. [Start and End of the Experiment](#start-and-end-of-the-experiment)
-5. [Channel Labels](#channel-labels)
+   - 4.3. [Channel Labels](#channel-labels)
 
 ## 1. Project title
 Robust Decoding of Multi-class Imagined Classification
