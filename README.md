@@ -32,7 +32,7 @@ Auditory prompts of the five words/phrases played for 2 seconds, succeeded by a 
 
 ### 3.2. **Recording Methodology**
 
-EEG data collection was facilitated by a BrainAmp EEG signal amplifier, produced by BrainProduct GmbH, Germany. The data was captured using the BrainVision software and processed using MATLAB 2019a. Recording was done using 64 EEG electrodes based on the 10-20 international setup. The grounding and reference electrodes were situated at Fpz and FCz respectively, and the impedance between the sensors and the participants' scalp was consistently kept below 15 kΩ.
+EEG data collection was facilitated by a BrainAmp EEG signal amplifier, produced by BrainProduct GmbH, Germany. The data was captured using the BrainVision software and processed using MATLAB 2019a. Recording was done using 64 EEG electrodes based on the 10-20 international setup. The grounding and reference electrodes were situated at Fpz and FCz respectively, and the impedance between the sensors and the participants' scalp was consistently kept below 15 kΩ. The dataset comprises 300 training trials, 50 validation trials, and an upcoming test set of 50 trials for subjects 1–15.
 
 ### 3.3. **Download the Dataset**
 
