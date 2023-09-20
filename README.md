@@ -30,6 +30,37 @@ The primary objective of this research is to **achieve reliable classification o
 
 **EEG data collection** was facilitated by a BrainAmp EEG signal amplifier, produced by BrainProduct GmbH, Germany. The data was captured using the BrainVision software and processed using MATLAB 2019a. Recording was done using 64 EEG electrodes based on the 10-20 international setup. The grounding and reference electrodes were situated at Fpz and FCz respectively, and the impedance between the sensors and the participants' scalp was consistently kept below 15 kΩ.
 
+## 2. Event Codes
+
+### 2-1. Each Class
+
+| Class     | Event Code |
+|-----------|------------|
+| Hello     | 1          |
+| Help me   | 2          |
+| Stop      | 3          |
+| Thank you | 4          |
+| Yes       | 5          |
+
+### 2-2. Start and End of the Experiment (a Whole Session)
+
+| Class | Event Code |
+|-------|------------|
+| Start | 13         |
+| End   | 14         |
+
+## 3. Channel Labels
+
+| Channel No. | Channel Label | Channel No. | Channel Label | Channel No. | Channel Label | Channel No. | Channel Label |
+|-------------|---------------|-------------|---------------|-------------|---------------|-------------|---------------|
+| 1           | Fp1           | 16          | T8            | 31          | O2            | 46          | FT10          |
+| 2           | Fp2           | 17          | TP9           | 32          | PO10          | 47          | C5            |
+| 3           | F7            | 18          | CP5           | 33          | AF7           | 48          | C1            |
+| 4           | F3            | 19          | CP1           | 34          | AF3           | 49          | C2            |
+| 5           | Fz            | 20          | CP2           | 35          | AF4           | 50          | C6            |
+| ...         | ...           | ...         | ...           | ...         | ...           | ...         | ...           |
+
+
 ### **Download the Dataset**
 
 To obtain the EEG Imagined Speech Dataset, click on the link below:
