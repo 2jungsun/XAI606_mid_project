@@ -1,6 +1,6 @@
 # XAI606_mid_project
 
-**EEG Imagined Speech Dataset**
+__EEG Imagined Speech Dataset__
 Table of Contents
 Overview
 Context and Objectives
