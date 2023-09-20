@@ -17,11 +17,9 @@ EEG recordings captured the imagined vocalization of five distinct speech words/
 
 # __Context and Objectives__
 
+The primary objective of this research is to achieve reliable classification of multiple imagined speech classes. The imagined vocalizations correspond to five essential communication words/phrases: ‘hello’, ‘help me’, ‘stop’, ‘thank you’, and ‘yes’. Throughout the study, participants were comfortably positioned in a chair, facing a 24-inch LCD display. They were guided to vividly imagine pronouncing the provided word as if they were actually verbalizing it, ensuring no physical movement or sound production. Participants were strictly advised to focus only on the given task and not engage in any other cognitive activities. Furthermore, they were cautioned to remain still and minimize eye blinks during both the imagination phase and cue reception. During all imagination trials, participants only saw a black screen, ensuring no external stimuli interfered with their brain activity.
+
 # __Experiment Configuration__
-
-The primary objective of this research is to achieve reliable classification of multiple imagined speech classes. The imagined vocalizations correspond to five essential communication words/phrases: ‘hello’, ‘help me’, ‘stop’, ‘thank you’, and ‘yes’. Throughout the study, participants were comfortably positioned in a chair, facing a 24-inch LCD display. They were guided to vividly imagine pronouncing the provided word as if they were actually verbalizing it, ensuring no physical movement or sound production.
-
-Participants were strictly advised to focus only on the given task and not engage in any other cognitive activities. Furthermore, they were cautioned to remain still and minimize eye blinks during both the imagination phase and cue reception. During all imagination trials, participants only saw a black screen, ensuring no external stimuli interfered with their brain activity.
 
 Auditory prompts of the five words/phrases played for 2 seconds, succeeded by a cross mark displayed for a duration between 0.8-1.2 seconds. As the cross mark vanished, participants commenced their imagined vocalization. This cycle of the cross mark display and imagined speech was repeated four times for each randomized cue. Following this, a 3-second relaxation period was allocated, allowing participants to reset before the next prompt.
 
