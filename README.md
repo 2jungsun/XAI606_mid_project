@@ -74,7 +74,17 @@ If you'd like to contribute to this dataset or have any suggestions, please open
 | 3           | F7            | 18          | CP5           | 33          | AF7           | 48          | C1            |
 | 4           | F3            | 19          | CP1           | 34          | AF3           | 49          | C2            |
 | 5           | Fz            | 20          | CP2           | 35          | AF4           | 50          | C6            |
-| ...         | ...           | ...         | ...           | ...         | ...           | ...         | ...           |
+| 6           | F4            | 21          | CP6           | 36          | AF8           | 51          | TP7           |
+| 7           | F8            | 22          | TP10          | 37          | F5            | 52          | CP3           |
+| 8           | FC5           | 23          | P7            | 38          | F1            | 53          | CPz           |
+| 9           | FC1           | 24          | P3            | 39          | F2            | 54          | CP4           |
+| 10          | FC2           | 25          | Pz            | 40          | F6            | 55          | TP8           |
+| 11          | FC6           | 26          | P4            | 41          | FT9           | 56          | P5            |
+| 12          | T7            | 27          | P8            | 42          | FT7           | 57          | P1            |
+| 13          | C3            | 28          | PO9           | 43          | FC3           | 58          | P2            |
+| 14          | Cz            | 29          | O1            | 44          | FC4           | 59          | P6            |
+| 15          | C4            | 30          | Oz            | 45          | FT8           | 60          | PO7           |
+
 
 
 
