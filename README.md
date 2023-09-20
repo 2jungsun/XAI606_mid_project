@@ -10,7 +10,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-###**Overview**
+### **Overview**
 
 **EEG recordings captured the imagined vocalization** of five distinct speech words/phrases. There's a total of 350 trials, with 70 trials for each class. Out of these, 60 trials per class are designated for training and 10 trials per class for validation. The testing data, comprising 10 trials for each class, will be disseminated in the future. The data has been segmented according to the cues provided (event markers).
 
