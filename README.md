@@ -2,17 +2,17 @@
 
 __EEG Imagined Speech Dataset__
 
-Table of Contents
+__Table of Contents__
 
-Overview
+__Overview__
 
-Context and Objectives
+__Context and Objectives__
 
-Experiment Configuration
+__Experiment Configuration__
 
-Recording Methodology
+__Recording Methodology__
 
-Contributing
+__Contributing__
 
 License
 
