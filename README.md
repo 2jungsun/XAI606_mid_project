@@ -10,7 +10,7 @@
    - [Contributing](#contributing)
 
 ## Project title
-(TODO: 여기에 프로젝트 제목을 작성하세요.)
+Robust Decoding of Multi-class Imagined Classification
 
 ## Project introduction
 ### **Overview**
