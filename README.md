@@ -2,19 +2,14 @@
 
 ## __EEG Imagined Speech Dataset__
 
-[__Table of Contents__](#heading-1)
+## Table of Contents
+- [Overview](#overview)
+- [Context and Objectives](#context-and-objectives)
+- [Experiment Configuration](#experiment-configuration)
+- [Recording Methodology](#recording-methodology)
+- [Contributing](#contributing)
+- [License](#license)
 
-# __Overview__
-
-# __Context and Objectives__
-
-# __Experiment Configuration__
-
-# __Recording Methodology__
-
-# __Contributing__
-
-# __License__
 
 # __Overview__
 
