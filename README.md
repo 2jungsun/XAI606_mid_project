@@ -26,12 +26,14 @@ The primary objective of this research is to **achieve reliable classification o
 
 **EEG data collection** was facilitated by a BrainAmp EEG signal amplifier, produced by BrainProduct GmbH, Germany. The data was captured using the BrainVision software and processed using MATLAB 2019a. Recording was done using 64 EEG electrodes based on the 10-20 international setup. The grounding and reference electrodes were situated at Fpz and FCz respectively, and the impedance between the sensors and the participants' scalp was consistently kept below 15 kΩ.
 
+## **Download the Dataset**
+
+To obtain the EEG Imagined Speech Dataset, click on the link below:
+
+[Download EEG Imagined Speech Dataset](https://drive.google.com/drive/folders/1SB5yMIoxsRS42cfKpZC3lXvxJNvGhn2k?usp=drive_link)
+
+Please make sure to cite our work or give appropriate credits if you utilize the dataset for your research or any other purposes.
+
 ## **Contributing**
 
 If you'd like to contribute to this dataset or have any suggestions, please open an issue or submit a pull request.
-
-## **License**
-
-MIT License
-
-Please note that sections like "Contributing" and "License" are placeholders and can be expanded upon or linked to their respective files (like LICENSE.md) as per the specifics of the GitHub repository.
