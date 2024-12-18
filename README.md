@@ -41,7 +41,7 @@ To obtain the EEG Imagined Speech Dataset, click on the link below:
 
 [Download EEG Imagined Speech Dataset](https://drive.google.com/drive/folders/1SB5yMIoxsRS42cfKpZC3lXvxJNvGhn2k?usp=drive_link)
 
-Please make sure to cite our work or give appropriate credits if you utilize the dataset for your research or any other purposes.
+Please cite our work or give appropriate credits if you use the dataset for your research or any other purposes.
 
 ### 3.4. **Contributing**
 
